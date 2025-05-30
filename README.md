@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I’m Mai!
 
-<!--
-**BenbrikNihad/BenbrikNihad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Sience Master’s student in Artificial Intelligence, focusing on form recognition and data analysis.
+## 👩‍🎓 Education
 
-Here are some ideas to get you started:
+🎓 Master's Student in Artificial Intelligence & Form Recognition  
+📍 Université Hassiba Benbouali de Chlef (UHBC), Algeria  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I’m passionate about:
+- Intelligent document processing
+- Computer vision
+- Machine learning for real-world data
+
+🛠️ Tech I use:
+Python, NumPy, OpenCV, TensorFlow, PyTorch, Git, SQL
